@@ -1,2 +1,2 @@
 # RxHttp
-Rxjava do use the cache
+use rxjava do the cache
